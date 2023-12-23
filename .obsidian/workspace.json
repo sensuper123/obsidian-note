@@ -11,12 +11,8 @@
             "id": "47767fbc096765e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md"
+                "file": "learning/hello.md"
               }
             }
           }
@@ -148,28 +142,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "47767fbc096765e5",
+  "active": "8e53b68759b795ef",
   "lastOpenFiles": [
-    "md/black house/安装教程 - Windows系统安装MySql/imgs/0.jpg",
-    "md/black house/mysql.md",
-    "md/learning",
-    "md/lg_web/part1_javascript_deep_lean/异步/异步编程code.md",
     "md/lg_web/part1_javascript_deep_lean/异步/模拟promise实现.md",
+    "md/lg_web/part1_javascript_deep_lean/异步/异步编程code.md",
     "md/lg_web/part1_javascript_deep_lean/函数/函数式编程code.md",
-    "md/black house/安装教程 - Windows系统安装MySql/README.md",
-    "md/black house/express.md",
+    "md/lg_web/part1_javascript_deep_lean/函数/01-01-01-函数式编程.pdf",
     "md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
+    "md/black house/安装教程 - Windows系统安装MySql/imgs/9.jpg",
+    "md/black house/安装教程 - Windows系统安装MySql/imgs/7.jpg",
+    "md/black house/安装教程 - Windows系统安装MySql/imgs/6.jpg",
+    "md/black house/安装教程 - Windows系统安装MySql/imgs/5.jpg",
+    "md/black house/安装教程 - Windows系统安装MySql/imgs/4.jpg",
     "md/black house/安装教程 - Windows系统安装MySql/imgs/34.jpg",
     "md/black house/安装教程 - Windows系统安装MySql/imgs/33.jpg",
     "md/black house/安装教程 - Windows系统安装MySql/imgs/32.jpg",
     "md/black house/安装教程 - Windows系统安装MySql/imgs/31.jpg",
     "md/black house/安装教程 - Windows系统安装MySql/imgs/30.jpg",
-    "md/black house/安装教程 - Windows系统安装MySql/imgs/29.jpg",
-    "md/black house/安装教程 - Windows系统安装MySql/imgs/28.jpg",
-    "md/black house/安装教程 - Windows系统安装MySql/imgs/27.jpg",
-    "md/black house/安装教程 - Windows系统安装MySql/imgs/26.jpg",
-    "md/black house/安装教程 - Windows系统安装MySql/imgs/25.jpg",
-    "md/lg_web/part1_javascript_deep_lean/函数/01-01-01-函数式编程.pdf",
+    "md/black house/安装教程 - Windows系统安装MySql/README.md",
+    "md/black house/mysql.md",
+    "md/black house/express.md",
+    "learning/hello.md",
+    "learning",
+    "md/learning",
     "md/lg_web/part1_javascript_deep_lean/ECMAScript",
     "md/black house/安装教程 - Windows系统安装MySql/imgs",
     "md/lg_web/part1_javascript_deep_lean/异步",
@@ -177,7 +172,6 @@
     "md/black house/安装教程 - Windows系统安装MySql",
     "md/lg_web/part1_javascript_deep_lean",
     "md/lg_web",
-    "md/black house",
     "md/lg_web/part1_javascript_deep_lean/未命名.md",
     "md/lg_web/part1_javascript_deep_lean/ECMAScript.md",
     "md/lg_web/part1_javascript_deep_lean/函数/未命名.md",
