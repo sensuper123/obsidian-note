@@ -1,6 +1,5 @@
 [
   "obsidian-image-auto-upload-plugin",
-  "obsidian-outliner",
   "obsidian-mind-map",
   "heading-level-indent",
   "mousewheel-image-zoom",
@@ -8,5 +7,6 @@
   "remotely-save",
   "obsidian-excalidraw-plugin",
   "obsidian-annotator",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-outliner"
 ]
