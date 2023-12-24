@@ -351,3 +351,14 @@ console.log(iterator.next());
 console.log(iterator.next());
 console.log(iterator.next());
 ```
+# generator
+# ES2016
+```javascript
+//includes 指数运算
+//includes 相对于 indexOf 能查找到NaN,false这些数据
+const arr = [1,2,3,NaN,false]
+console.log(arr.includes(NaN));
+//指数运算符 2 ** 10 表示2的十次方
+console.log(2 ** 10);
+```
+# ES2017
