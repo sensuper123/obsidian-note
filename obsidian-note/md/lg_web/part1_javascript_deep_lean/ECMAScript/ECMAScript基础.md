@@ -232,3 +232,60 @@ m.delete(tom)
 m.has(arr)
 //清空
 m.clear()
+```
+
+s
+# Symbol
+```javascript
+// Symbol 数据类型，每一个都是独一无二的
+//目前主要运用在对象的属性名，和私有成员上
+const obj1 = {
+  [Symbol('name')] : 'zs',
+  [Symbol('name')] : 'ls'
+}
+console.log(obj1); //不会覆盖 { [Symbol(name)]: 'zs', [Symbol(name)]: 'ls' }
+
+//私有成员
+const name = Symbol()
+const person ={
+  [name] :'zs',
+  sayName(){
+    console.log(this[name]);
+  }
+}
+person.sayName()
+
+//通过Symbol.for,来复用这个变量
+const person ={
+  [Symbol.for('name')] :'zs',
+  sayName(){
+    console.log(this[Symbol.for('name')]);
+  }
+}
+person.sayName()
+```
+# for of
+```javascript
+//for of 可遍历任何的数据类型
+//遍历数据
+const arr = [1,2,3]
+for(const item of arr){
+  console.log(item);
+}
+//遍历set数据结构，集合，类似数组，去重
+const s = new Set([1,2,3,5,6,3,2,])
+for(const item of s){
+  console.log( item);
+}
+//遍历map数据结构，类似对象，健可以是任何值
+const m = new Map()
+m.set({name:'tom'},90)
+m.set([1,2,3],80)
+for(const item of m){
+  console.log(item); //[ { name: 'tom' }, 90 ]  [ [ 1, 2, 3 ], 80 ]
+}
+//可用结构，得到键值
+for(const [key,value] of m){
+  console.log(key,value);
+}
+```
