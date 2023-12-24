@@ -130,3 +130,57 @@ const proxyPerson = new Proxy(person,{
 })
 console.log(proxyPerson.age);
 ```
+
+# Reflect
+```javascript
+//reflect实际上是一个操作对象的库
+//如proxy里面的操作方法，本质在内部是调用reflect方法
+const obj1 = {
+  name :'zc',
+  age:18
+}
+const obj1Proxy = new Proxy(obj1,{
+  get(target,property){
+    console.log('watch obj1');
+    return Reflect.get(target,property)
+  }
+})
+// console.log(obj1Proxy.name);
+// console.log('name' in obj1);
+// console.log(Object.keys(obj1));
+// console.log(delete obj1.name);
+console.log(Reflect.ownKeys(obj1));
+console.log(Reflect.deleteProperty(obj1,'name'));
+console.log(Reflect.has(obj1,'age'));
+console.log(obj1);
+```
+# class
+```javascript
+//类 实例方法 静态方法 extends
+class Person{
+  constructor(name){
+    this.name = name 
+  }
+  sayName(){
+    console.log(this.name);
+  }
+}
+const p1 = new Person('zs')
+p1.sayName()
+
+//继承，相当于拥有父元素的所有方法和属性，但需要调用super把父类需要的参数传递过去，相当于父类执行一遍，从而子类拥有父类的属性和方法
+class Student extends Person{
+  constructor(name,stuNum){
+    super(name)
+    this.stuNum = stuNum
+  }
+  sayStuNum(){
+    console.log(this.stuNum);
+  }
+}
+const p2 = new Student('li','001')
+
+p2.sayName()
+p2.sayStuNum()
+console.log(p2.name);
+```

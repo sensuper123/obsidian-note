@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-note/learning/hello.md",
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-note/learning/hello.md",
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-note/learning/hello.md",
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-note/learning/hello.md"
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md"
               }
             }
           }
@@ -148,10 +148,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8e53b68759b795ef",
+  "active": "47767fbc096765e5",
   "lastOpenFiles": [
-    "learning/hello.md",
     "obsidian-note/learning/hello.md",
+    "learning/hello.md",
     "learning",
     "新建文本文档.txt",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
