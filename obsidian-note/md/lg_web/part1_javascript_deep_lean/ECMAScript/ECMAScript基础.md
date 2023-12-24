@@ -184,3 +184,51 @@ p2.sayName()
 p2.sayStuNum()
 console.log(p2.name);
 ```
+# Set
+```javascript
+// Set 数据结构，是一个集合，可以看成是一个数组，但元素不能重复
+const s = new Set()
+s.add(1).add(3).add(2).add(1)
+console.log(s);
+
+const arr = [1,2,3,4,5,6,6,5,4,3,2,1]
+const s1 = new Set(arr)
+console.log(s1); //-Set { 1, 2, 3, 4, 5, 6 } 
+const s2 =  Array.from(s1) 
+console.log(s2); //[ 1, 2, 3, 4, 5, 6 ]
+const s3 = [...new Set(arr)]
+console.log(s3); //[ 1, 2, 3, 4, 5, 6 ]
+
+//Set几种方法
+console.log(s1.has(2));
+s1.forEach((item)=>{console.log(item)})
+s1.delete(2)
+console.log(s1); //Set { 1, 3, 4, 5, 6 }
+console.log(s1); //Set {}
+```
+# Map
+```javascript
+
+//Map 数据结构，类似于对象，只是对象的键只能是字符串，而Map的键可以是任何一种类型
+
+const m = new Map()
+//通过set方法来设置，键值对
+const tom = {name:'tom'}
+const arr = [1,2,3,4]
+m.set(tom,90)
+m.set(arr,1234)
+m.set(true,'爱你')
+//通过get来取值
+console.log(m.get(tom));
+console.log(m.get(arr));
+console.log(m.get(true));
+//遍历
+m.forEach((val,key)=>{
+  console.log(val,key);
+})
+//删除
+m.delete(tom)
+//查询
+m.has(arr)
+//清空
+m.clear()
