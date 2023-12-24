@@ -362,3 +362,34 @@ console.log(arr.includes(NaN));
 console.log(2 ** 10);
 ```
 # ES2017
+```javascript
+//Object.values
+const obj = {
+  foo:'v1',
+  bar:'v2'
+}
+console.log(Object.values(obj));
+
+//entries 返回对象中所有的键值对
+console.log(Object.entries(obj));//[ [ 'foo', 'v1' ], [ 'bar', 'v2' ] ]
+for(const [key,val] of Object.entries(obj)){
+  console.log(key,val); //foo v1 bar v2
+}
+console.log(new Map(Object.entries(obj))); //Map { 'foo' => 'v1', 'bar' => 'v2' }
+
+//Object.getOwnPropertyDescriptors
+const p1 = {
+  firstName:'lei',
+  lastName:'wang',
+  get fullName(){
+    return this.firstName + ' '+ this.lastName
+  }
+}
+// const p2 = Object.assign({},p1)
+// p2.firstName = 'zc'
+// console.log(p2.fullName); //--lei wang
+const descriptors = Object.getOwnPropertyDescriptors(p1)
+const p2 = Object.defineProperties({},descriptors)
+p2.firstName = 'zc'
+console.log(p2.fullName);
+```
