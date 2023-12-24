@@ -289,3 +289,65 @@ for(const [key,value] of m){
   console.log(key,value);
 }
 ```
+# 给对象添加Symbol.iterator实现可用for of遍历
+```javascript
+const obj = {
+  store :[{age:'18'},'bar','baz',[{ppp:'123pp'}]],
+  list:[1,2,3,4],
+  pil:{
+    name:['tom','jack'],
+    age:{
+      one:18,
+      two:20
+    }
+  },
+  up:'show',
+  [Symbol.iterator] : function(){
+    let arr = []
+    let index = 0
+    function outKeys(value){
+      //拿到所有的键
+      let keys = Object.keys(value)
+      //遍历所有的键
+      keys.forEach((key)=>{
+        //判断每一个值是什么类型
+        isObj(value[key],key)
+      })
+    }
+    function isObj(value,key){
+      //数组合并
+      if(value instanceof Array){
+        value.forEach((item)=>{
+          //判断数组内每个值
+          isObj(item)
+        })
+      }else if(value instanceof Object){
+        //对象，重复outKeys
+        outKeys(value)
+      }else{
+        //其他普通类型合并
+        arr.push(value)
+      }
+    }
+    //把初始对象传进去
+    outKeys(this)
+    return {
+      next:function(){
+        const result = {
+          value : arr[index],
+          done: index >= arr.length
+        }
+        index++
+        return result
+      }
+    }
+  }
+}
+for(const item of obj){
+  console.log(item);
+}
+let iterator = obj[Symbol.iterator]()
+console.log(iterator.next());
+console.log(iterator.next());
+console.log(iterator.next());
+```
