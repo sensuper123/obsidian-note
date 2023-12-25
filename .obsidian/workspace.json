@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md"
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md"
               }
             }
           }
@@ -150,9 +150,13 @@
   },
   "active": "47767fbc096765e5",
   "lastOpenFiles": [
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/Flow.md",
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/类型语言剖析.md",
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/异步/异步编程code.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/异步/模拟promise实现.md",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
     "obsidian-note/learning/hello.md",
     "learning/hello.md",
     "learning",
@@ -179,7 +183,6 @@
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql",
-    "obsidian-note/md/lg_web",
     "md/lg_web/part1_javascript_deep_lean/异步/模拟promise实现.md",
     "md/lg_web/part1_javascript_deep_lean/异步/异步编程code.md",
     "md/lg_web/part1_javascript_deep_lean/函数/函数式编程code.md",
@@ -193,7 +196,6 @@
     "Excalidraw/Drawing 2023-12-20 01.44.46.excalidraw.md",
     "Excalidraw/Drawing 2023-12-20 01.44.33.excalidraw.md",
     "Excalidraw/Drawing 2023-12-20 01.49.18.excalidraw.md",
-    "express初体验.md",
     "未命名.canvas"
   ]
 }
