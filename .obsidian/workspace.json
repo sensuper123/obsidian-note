@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a3d573fc541c32a",
+        "id": "7cc928db883e1f2d",
         "type": "tabs",
         "children": [
           {
-            "id": "47767fbc096765e5",
+            "id": "dcc8765c6b814fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 260.5
   },
   "right": {
     "id": "1f8256c970ce9df9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md"
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md"
               }
             }
           }
@@ -148,10 +148,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "47767fbc096765e5",
+  "active": "dcc8765c6b814fbe",
   "lastOpenFiles": [
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/Flow.md",
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化",
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/Flow.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/类型语言剖析.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript",
@@ -182,7 +184,6 @@
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean",
-    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql",
     "md/lg_web/part1_javascript_deep_lean/异步/模拟promise实现.md",
     "md/lg_web/part1_javascript_deep_lean/异步/异步编程code.md",
     "md/lg_web/part1_javascript_deep_lean/函数/函数式编程code.md",
@@ -195,7 +196,6 @@
     "Highlights for 01-01-01-函数式编程.md",
     "Excalidraw/Drawing 2023-12-20 01.44.46.excalidraw.md",
     "Excalidraw/Drawing 2023-12-20 01.44.33.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-20 01.49.18.excalidraw.md",
     "未命名.canvas"
   ]
 }
