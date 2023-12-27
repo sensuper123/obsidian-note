@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcc8765c6b814fbe",
+            "id": "1cfab73afe323d99",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,18 +148,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dcc8765c6b814fbe",
+  "active": "1cfab73afe323d99",
   "lastOpenFiles": [
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/类型语言剖析.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
+    "obsidian-note/learning/hello.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/Flow.md",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/类型语言剖析.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/异步/异步编程code.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/异步/模拟promise实现.md",
-    "obsidian-note/learning/hello.md",
     "learning/hello.md",
     "learning",
     "新建文本文档.txt",
