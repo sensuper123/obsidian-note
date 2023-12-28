@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc928db883e1f2d",
+        "id": "5cb1e38e2b86b2c5",
         "type": "tabs",
         "children": [
           {
-            "id": "1cfab73afe323d99",
+            "id": "5e121e194b0b3198",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md"
+                "file": "Excalidraw/Drawing 2023-12-29 00.44.56.excalidraw.md"
               }
             }
           }
@@ -148,25 +142,42 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1cfab73afe323d99",
+  "active": "8e53b68759b795ef",
   "lastOpenFiles": [
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/类型语言剖析.md",
+    "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
+    "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎",
+    "obsidian-note/learning/waying.md",
+    "obsidian-note/learning/Vue.js 组件精讲/1基础：Vue.js 组件的三个 API：prop、event、slot.md",
+    "obsidian-note/md/coderwhy",
+    "Excalidraw/Drawing 2023-12-29 00.44.56.excalidraw.md",
+    "Excalidraw",
+    "obsidian-note/learning/Vue.js 组件精讲/9实战 4：全局提示组件——$Alert.md",
+    "obsidian-note/learning/Vue.js 组件精讲/8实战 3：动态渲染 .vue 文件的组件—— Display.md",
+    "obsidian-note/learning/Vue.js 组件精讲/7Vue 的构造器——extend 与手动挂载——$mount.md",
+    "obsidian-note/learning/Vue.js 组件精讲/6实战 2：组合多选框组件——CheckboxGroup & Checkbox.md",
+    "obsidian-note/learning/Vue.js 组件精讲/5组件的通信 3：找到任意组件实例——findComponents 系列方法.md",
+    "obsidian-note/learning/Vue.js 组件精讲/4实战 1：具有数据校验功能的表单组件——Form.md",
+    "obsidian-note/learning/Vue.js 组件精讲/3组件的通信 2：派发与广播——自行实现 dispatch 和 broadcast 方法.md",
+    "obsidian-note/learning/Vue.js 组件精讲/2组件的通信 1：provide [ inject.md",
+    "obsidian-note/learning/Vue.js 组件精讲/19写在最后.md",
+    "obsidian-note/learning/Vue.js 组件精讲/18拓展：如何做好一个开源项目（下篇）.md",
+    "obsidian-note/learning/Vue.js 组件精讲/17拓展：如何做好一个开源项目（上篇）.md",
+    "obsidian-note/learning/Vue.js 组件精讲/15拓展：Vue.js 容易忽略的 API 详解.md",
+    "obsidian-note/learning/Vue.js 组件精讲/16拓展：Vue.js 面试、常见问题答疑.md",
+    "obsidian-note/learning/Vue.js 组件精讲/14实战 7：树形控件——Tree.md",
+    "obsidian-note/learning/Vue.js 组件精讲/13递归组件与动态组件.md",
+    "obsidian-note/learning/Vue.js 组件精讲/12实战 6：可用 slot-scope 自定义列的表格组件——Table.md",
+    "obsidian-note/learning/Vue.js 组件精讲/11实战 5：可用 Render 自定义列的表格组件——Table.md",
+    "obsidian-note/learning/Vue.js 组件精讲/10更灵活的组件：Render 函数与 Functional Render.md",
+    "obsidian-note/learning/Vue.js 组件精讲/0开篇：Vue.js 的精髓——组件.md",
+    "obsidian-note/learning/Vue.js 组件精讲",
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/类型语言剖析.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
-    "obsidian-note/learning/hello.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/Flow.md",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/异步/异步编程code.md",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/异步/模拟promise实现.md",
-    "learning/hello.md",
     "learning",
     "新建文本文档.txt",
-    "md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
-    "obsidian-note/md/black house/mysql.md",
-    "obsidian-note/md/black house/express.md",
-    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/README.md",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/9.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/7.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/6.jpg",
@@ -177,25 +188,8 @@
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/1.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/0.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/34.jpg",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/函数/函数式编程code.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/函数/01-01-01-函数式编程.pdf",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/异步",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/函数",
-    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean",
-    "md/lg_web/part1_javascript_deep_lean/异步/模拟promise实现.md",
-    "md/lg_web/part1_javascript_deep_lean/异步/异步编程code.md",
-    "md/lg_web/part1_javascript_deep_lean/函数/函数式编程code.md",
-    "md/black house/安装教程 - Windows系统安装MySql/README.md",
-    "md/black house/mysql.md",
-    "md/black house/express.md",
-    "md/lg_web/part1_javascript_deep_lean/未命名.md",
-    "md/lg_web/part1_javascript_deep_lean/ECMAScript.md",
-    "md/lg_web/part1_javascript_deep_lean/函数/未命名.md",
-    "Highlights for 01-01-01-函数式编程.md",
-    "Excalidraw/Drawing 2023-12-20 01.44.46.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-20 01.44.33.excalidraw.md",
     "未命名.canvas"
   ]
 }
