@@ -33,6 +33,7 @@
 6. ![image.png|625](https://s2.loli.net/2023/12/29/WmOeicLXCs6GMq2.png)
 7. parse过程
 	1. ![image.png](https://s2.loli.net/2023/12/29/W2tIKQZTJyohfcm.png)
+	2. 会给代码添加一个全局对象GlobalObject={String,Window}，window指向GO自己
 
 
 
@@ -40,4 +41,28 @@
 
 
 
+
+# 执行过程小总结
+1. 浏览器会下载index.html文件，交给html parse解析，解析到css、js文件会异步下载对应代码，下载下来的css交给CSS Parse解析，js交给V8解析，css和html最终解析结果会附加在一起形成渲染树，之后经过layout、painting，就能在界面绘画出页面
+2. 当js代码解析执行时，html解析会停止
+3. js代码会经过parse解析后，生成AST抽象语法树，再经过Ignition编译成字节码，字节码可以选择交给TurboFan编译成机器码，也可以由Ignition逐行解释成cpu认识的机器指令执行
+4. 如果某一段代码会被执行很多次，TurboFan会将代码编译成机器码，之后执行的话就直接执行这个机器码，如果这个机器码无效了，会重新回到Ignition编译成字节码（反优化）
+5. 在parse过程中，会生成GlobalObject全局对象，全局对象里面包含一些内置对象、代码的全局属性和函数声明
+6. 在执行阶段，会生成一个全局执行上下文EC(g)，里面包含了VO，以及代码执行区域，因为全局执行上下文没有显示的VO，所以可以粗略的认为，VO就是GO，GO扮演了VO的角色
+
+# 包含函数执行过程
+1. ![image.png](https://s2.loli.net/2023/12/30/CplVqNmwsy6zhDk.png)
+```javascript
+var name = "why"
+foo(123)
+function foo(num){
+	console.log(m)
+	var m = 10
+	var n = 20
+	function bar(){
+		console.log(name)
+	}
+	bar()
+}
+```
 

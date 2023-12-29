@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb1e38e2b86b2c5",
+        "id": "62ab8eb65dfc5e06",
         "type": "tabs",
         "children": [
           {
-            "id": "5e121e194b0b3198",
+            "id": "63e069b613c226e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-29 00.44.56.excalidraw.md"
+                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md"
               }
             }
           }
@@ -144,13 +150,15 @@
   },
   "active": "8e53b68759b795ef",
   "lastOpenFiles": [
+    "obsidian-note/md/coderwhy/闭包",
+    "未命名",
     "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
-    "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎",
     "obsidian-note/learning/waying.md",
+    "Excalidraw/Drawing 2023-12-29 00.44.56.excalidraw.md",
+    "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎",
     "obsidian-note/learning/Vue.js 组件精讲/1基础：Vue.js 组件的三个 API：prop、event、slot.md",
     "obsidian-note/md/coderwhy",
-    "Excalidraw/Drawing 2023-12-29 00.44.56.excalidraw.md",
     "Excalidraw",
     "obsidian-note/learning/Vue.js 组件精讲/9实战 4：全局提示组件——$Alert.md",
     "obsidian-note/learning/Vue.js 组件精讲/8实战 3：动态渲染 .vue 文件的组件—— Display.md",
@@ -173,7 +181,6 @@
     "obsidian-note/learning/Vue.js 组件精讲/0开篇：Vue.js 的精髓——组件.md",
     "obsidian-note/learning/Vue.js 组件精讲",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/类型语言剖析.md",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/typescript.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript",
     "learning",
@@ -189,7 +196,6 @@
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/0.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/34.jpg",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/函数/01-01-01-函数式编程.pdf",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/异步",
     "未命名.canvas"
   ]
 }
