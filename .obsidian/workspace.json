@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
+                "file": "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
+                "file": "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
+                "file": "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md"
+                "file": "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md"
               }
             }
           }
@@ -148,43 +148,44 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8e53b68759b795ef",
+  "active": "63e069b613c226e0",
   "lastOpenFiles": [
-    "obsidian-note/md/coderwhy/闭包",
-    "未命名",
-    "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
-    "obsidian-note/learning/waying.md",
-    "Excalidraw/Drawing 2023-12-29 00.44.56.excalidraw.md",
-    "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎",
-    "obsidian-note/learning/Vue.js 组件精讲/1基础：Vue.js 组件的三个 API：prop、event、slot.md",
-    "obsidian-note/md/coderwhy",
-    "Excalidraw",
-    "obsidian-note/learning/Vue.js 组件精讲/9实战 4：全局提示组件——$Alert.md",
-    "obsidian-note/learning/Vue.js 组件精讲/8实战 3：动态渲染 .vue 文件的组件—— Display.md",
-    "obsidian-note/learning/Vue.js 组件精讲/7Vue 的构造器——extend 与手动挂载——$mount.md",
-    "obsidian-note/learning/Vue.js 组件精讲/6实战 2：组合多选框组件——CheckboxGroup & Checkbox.md",
-    "obsidian-note/learning/Vue.js 组件精讲/5组件的通信 3：找到任意组件实例——findComponents 系列方法.md",
-    "obsidian-note/learning/Vue.js 组件精讲/4实战 1：具有数据校验功能的表单组件——Form.md",
-    "obsidian-note/learning/Vue.js 组件精讲/3组件的通信 2：派发与广播——自行实现 dispatch 和 broadcast 方法.md",
-    "obsidian-note/learning/Vue.js 组件精讲/2组件的通信 1：provide [ inject.md",
-    "obsidian-note/learning/Vue.js 组件精讲/19写在最后.md",
-    "obsidian-note/learning/Vue.js 组件精讲/18拓展：如何做好一个开源项目（下篇）.md",
-    "obsidian-note/learning/Vue.js 组件精讲/17拓展：如何做好一个开源项目（上篇）.md",
-    "obsidian-note/learning/Vue.js 组件精讲/15拓展：Vue.js 容易忽略的 API 详解.md",
-    "obsidian-note/learning/Vue.js 组件精讲/16拓展：Vue.js 面试、常见问题答疑.md",
-    "obsidian-note/learning/Vue.js 组件精讲/14实战 7：树形控件——Tree.md",
-    "obsidian-note/learning/Vue.js 组件精讲/13递归组件与动态组件.md",
-    "obsidian-note/learning/Vue.js 组件精讲/12实战 6：可用 slot-scope 自定义列的表格组件——Table.md",
-    "obsidian-note/learning/Vue.js 组件精讲/11实战 5：可用 Render 自定义列的表格组件——Table.md",
-    "obsidian-note/learning/Vue.js 组件精讲/10更灵活的组件：Render 函数与 Functional Render.md",
-    "obsidian-note/learning/Vue.js 组件精讲/0开篇：Vue.js 的精髓——组件.md",
-    "obsidian-note/learning/Vue.js 组件精讲",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript/类型语言剖析.md",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/TypeScript",
-    "learning",
-    "新建文本文档.txt",
+    "obsidian-note/md/js++/js/函数基础与种类、形实及映射.md",
+    "obsidian-note/md/js++/js/类型转换.md",
+    "obsidian-note/md/js++/js",
+    "obsidian-note/md/js++",
+    "obsidian-note/learning/webpack/9 如何借助 Webpack 开发 PWA、Node、Electron 应用？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/8 使用 Webpack 构建微前端应用[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/7 使用 Webpack 构建 NPM Library 的正确方式[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/6 如何搭建 React 全栈开发环境？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/5 如何搭建 Vue 全栈开发环境？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/4 如何借助预处理器、PostCSS 等构建现代 CSS 工程环境？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/30 HMR：如何动态替换页面代码？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/3 如何借助 Babel+TS+ESLint 构建现代 JS 工程环境？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/29 Sourcemap：源码映射原理与应用技巧[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/28 Tree-shaking：如何删除无用模块导出？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/27 Runtime：模块编译打包及运行时逻辑[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/26 Chunk：三种产物的打包逻辑[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/25 Dependency Graph：如何管理模块间依赖？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/24 Init、Make、Seal：真正读懂 Webpack 核心流程[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/23 插件架构：Hook 体系是如何影响 Webpack 架构的？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/22 插件开发进阶：如何提升插件健壮性？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/2 如何理解 Webpack 配置底层结构逻辑？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/21 插件开发基础：实例剖析插件基本形态与架构逻辑[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/20 Loader 开发进阶：如何用好 Loader 扩展开发工具？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/15 有哪些值得学习的构建性能极致优化技巧？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/19 Loader 开发基础：从开源项目学到的 Loader 开发技巧[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/18 还有哪些值得学习的应用性能极致优化技巧？[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack/17 不止 Terser：揭秘代码压缩的门门道道[微信：itcodeba ].md",
+    "obsidian-note/learning/webpack",
+    "obsidian-note/learning/vue3_source/结束语 - 终点也是起点【海 量资源：ubkz.com】.pdf",
+    "obsidian-note/learning/vue3_source/特别放送导读 -研究 Vue 官方生态的实现原理【海 量资源：ubkz.com】.pdf",
+    "obsidian-note/learning/vue3_source/模块四导读 - 实用特性：探索更多实用特性背后的原理【海 量资源：ubkz.com】.pdf",
+    "obsidian-note/learning/vue3_source/模块五导读 - 内置组件：学习 Vue 内置组件的实现原理【海 量资源：ubkz.com】.pdf",
+    "obsidian-note/learning/vue3_source/模块二导读 - 逻辑复用最佳实践：Composition API【海 量资源：ubkz.com】.pdf",
+    "obsidian-note/learning/vue3_source/模块三导读 -编译和优化：了解编译过程和背后的优化思想【海 量资源：ubkz.com】.pdf",
+    "obsidian-note/learning/vue3_source/模块一导读 -组件的实现：直击 Vue 核心的实现【海 量资源：ubkz.com】.pdf",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/9.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/7.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/6.jpg",
@@ -195,7 +196,6 @@
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/1.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/0.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/34.jpg",
-    "obsidian-note/md/lg_web/part1_javascript_deep_lean/函数/01-01-01-函数式编程.pdf",
     "未命名.canvas"
   ]
 }

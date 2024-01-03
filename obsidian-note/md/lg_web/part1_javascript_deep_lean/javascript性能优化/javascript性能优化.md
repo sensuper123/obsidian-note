@@ -177,5 +177,104 @@ delete obj.o2.pre //obj1就变成垃圾了
 		5. 形参赋值：它就相当于是变量声明，然后将声明的变量放置于AO
 		6. 变量提升
 		7. 代码执行
+# 对于VO,GO,AO及它们存在位置的问题
+统一理解coderwhy的流程内容
+![image.png|750](https://s2.loli.net/2024/01/02/8okA6WfhwpZDBQO.png)
 
 
+# 变量私有化
+```javascript
+/*
+对于能存储在局部作用域的变量尽量存储在局部作用域
+这么做的目的是为了减少变量查找的层级，从而使代码运行的更快
+*/
+var i ,str = ''
+function makeStr(){
+  for(i = 0 ; i < 1000; i++){
+  str += i
+  }
+}
+
+function makeStr1(){
+  let str = ''
+  for(var i = 0;i< 1000; i++){
+    str += i
+  }
+}
+
+//前者需要从本地makeStr的AO找i，str,找不到再去全局作用域找
+//后者只需要从本地makeStr的AO找i,str
+
+
+```
+# 变量缓存
+1. 当一个变量在一个作用域内需要多次使用，且这个变量在其他的作用域内，或者说在其他的堆地址内，就可以复制一份，缓存在本地作用域内
+2. 这样子做其实本质也是减少了变量查找的层级，加快代码运行效率
+3. 缺点就是在本地AO多存储了一个变量，用空间换时间，浪费了些空间
+
+# 防抖和节流
+1. 防抖是只多次点击无效，只进行第一次后最后一次点击操作
+2. 节流是可以自行设置事件间隔，例如每隔一秒钟就能进行一次事件操作
+3. 应用场景
+	1. 滚动事件
+	2. 输入的模糊匹配
+	3. 轮播图切换
+	4. 点击操作
+
+# 防抖实现
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <button id="btn">点击</button>
+  </body>
+  <script>
+    let btn = document.getElementById('btn')
+    function myDebounce(handle, wait, immediate) {
+      // 参数判断
+      if (typeof handle !== 'function')
+        return new Error('handle is must be function')
+      if (typeof wait === 'undefined') {
+        wait = 300
+      } else if (typeof wait === 'boolean') {
+        immediate = wait
+        wait = 300
+      } else if (typeof wait !== 'number') {
+        return new Error('wait must be a number')
+      }
+      if (typeof immediate !== 'boolean') immediate = false
+
+      
+      let timer = null
+      return function proxy(...args) {
+        let self = this
+		//实现在一段时间内，只执行第一次
+        if (immediate && !timer) {
+          handle.call(self, ...args)
+          timer = setTimeout(() => {
+            timer = null
+          }, wait)
+          //实现在一段时间内，只执行最后一次
+        } else if (!immediate) {
+          clearTimeout(timer)
+          timer = setTimeout(() => {
+            handle.call(self, ...args)
+          }, wait)
+        }
+      }
+    }
+    function btnClick(ev) {
+      console.log(ev)
+      console.log('点击了btn')
+    }
+    btn.onclick = myDebounce(btnClick, 3000, true)
+  </script>
+</html>
+
+```
