@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
+                "file": "obsidian-note/md/js++/js/5.对象、构造函数、实例化.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 384.5
   },
   "right": {
     "id": "1f8256c970ce9df9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
+                "file": "obsidian-note/md/js++/js/5.对象、构造函数、实例化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
+                "file": "obsidian-note/md/js++/js/5.对象、构造函数、实例化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md"
+                "file": "obsidian-note/md/js++/js/5.对象、构造函数、实例化.md"
               }
             }
           }
@@ -150,9 +150,13 @@
   },
   "active": "63e069b613c226e0",
   "lastOpenFiles": [
+    "obsidian-note/md/js++/js/2.函数基础与种类、形实及映射、递归、GO、AO.md",
+    "obsidian-note/md/js++/js/4.立即执行函数，闭包案例，运算符.md",
+    "obsidian-note/md/js++/js/3.作用域、作用域链、闭包基础.md",
+    "obsidian-note/md/js++/js/5.对象、构造函数、实例化.md",
+    "obsidian-note/md/js++/js/1.类型转换.md",
+    "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
-    "obsidian-note/md/js++/js/函数基础与种类、形实及映射.md",
-    "obsidian-note/md/js++/js/类型转换.md",
     "obsidian-note/md/js++/js",
     "obsidian-note/md/js++",
     "obsidian-note/learning/webpack/9 如何借助 Webpack 开发 PWA、Node、Electron 应用？[微信：itcodeba ].md",
@@ -174,10 +178,6 @@
     "obsidian-note/learning/webpack/2 如何理解 Webpack 配置底层结构逻辑？[微信：itcodeba ].md",
     "obsidian-note/learning/webpack/21 插件开发基础：实例剖析插件基本形态与架构逻辑[微信：itcodeba ].md",
     "obsidian-note/learning/webpack/20 Loader 开发进阶：如何用好 Loader 扩展开发工具？[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/15 有哪些值得学习的构建性能极致优化技巧？[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/19 Loader 开发基础：从开源项目学到的 Loader 开发技巧[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/18 还有哪些值得学习的应用性能极致优化技巧？[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/17 不止 Terser：揭秘代码压缩的门门道道[微信：itcodeba ].md",
     "obsidian-note/learning/webpack",
     "obsidian-note/learning/vue3_source/结束语 - 终点也是起点【海 量资源：ubkz.com】.pdf",
     "obsidian-note/learning/vue3_source/特别放送导读 -研究 Vue 官方生态的实现原理【海 量资源：ubkz.com】.pdf",
