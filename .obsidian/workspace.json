@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 228.5
   },
   "right": {
     "id": "1f8256c970ce9df9",
@@ -150,14 +150,14 @@
   },
   "active": "63e069b613c226e0",
   "lastOpenFiles": [
-    "obsidian-note/md/js++/js/5.对象、构造函数、实例化、包装类.md",
+    "obsidian-note/md/js++/js/2.函数基础与种类、形实及映射、递归、GO、AO.md",
+    "obsidian-note/md/js++/js/1.类型转换.md",
     "obsidian-note/md/js++/js/6.原型链.md",
+    "obsidian-note/md/js++/js/5.对象、构造函数、实例化、包装类.md",
     "obsidian-note/md/js++/js/6.原型链",
     "未命名",
-    "obsidian-note/md/js++/js/2.函数基础与种类、形实及映射、递归、GO、AO.md",
     "obsidian-note/md/js++/js/4.立即执行函数，闭包案例，运算符.md",
     "obsidian-note/md/js++/js/3.作用域、作用域链、闭包基础.md",
-    "obsidian-note/md/js++/js/1.类型转换.md",
     "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
     "obsidian-note/md/js++/js",
