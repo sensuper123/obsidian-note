@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-note/md/js++/js/7.对象属性遍历，this.md",
+                "file": "obsidian-note/md/js++/js/9.数组.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 229.5
   },
   "right": {
     "id": "1f8256c970ce9df9",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-note/md/js++/js/7.对象属性遍历，this.md",
+                "file": "obsidian-note/md/js++/js/9.数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-note/md/js++/js/7.对象属性遍历，this.md",
+                "file": "obsidian-note/md/js++/js/9.数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-note/md/js++/js/7.对象属性遍历，this.md"
+                "file": "obsidian-note/md/js++/js/9.数组.md"
               }
             }
           }
@@ -151,14 +150,16 @@
   },
   "active": "63e069b613c226e0",
   "lastOpenFiles": [
+    "obsidian-note/md/js++/js/8.三目运算符、深拷贝浅拷贝.md",
+    "obsidian-note/md/js++/js/9.数组.md",
+    "obsidian-note/md/js++/js/7.对象属性遍历，this.md",
+    "obsidian-note/md/js++/js/2.函数基础与种类、形实及映射、递归、GO、AO.md",
+    "obsidian-note/md/js++/js/3.作用域、作用域链、闭包基础.md",
+    "obsidian-note/md/js++/js/4.立即执行函数，闭包案例，运算符.md",
     "obsidian-note/md/js++/js/5.对象、构造函数、实例化、包装类.md",
     "obsidian-note/md/js++/js/6.原型链.md",
-    "obsidian-note/md/js++/js/7.对象属性遍历，this.md",
     "obsidian-note/md/js++/js/1.类型转换.md",
     "obsidian-note/md/js++/js/7.对象遍历，this",
-    "obsidian-note/md/js++/js/4.立即执行函数，闭包案例，运算符.md",
-    "obsidian-note/md/js++/js/3.作用域、作用域链、闭包基础.md",
-    "obsidian-note/md/js++/js/2.函数基础与种类、形实及映射、递归、GO、AO.md",
     "obsidian-note/md/js++/js/6.原型链",
     "未命名",
     "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
@@ -180,8 +181,6 @@
     "obsidian-note/learning/webpack/25 Dependency Graph：如何管理模块间依赖？[微信：itcodeba ].md",
     "obsidian-note/learning/webpack/24 Init、Make、Seal：真正读懂 Webpack 核心流程[微信：itcodeba ].md",
     "obsidian-note/learning/webpack/23 插件架构：Hook 体系是如何影响 Webpack 架构的？[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/22 插件开发进阶：如何提升插件健壮性？[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/2 如何理解 Webpack 配置底层结构逻辑？[微信：itcodeba ].md",
     "obsidian-note/learning/webpack",
     "obsidian-note/learning/vue3_source/结束语 - 终点也是起点【海 量资源：ubkz.com】.pdf",
     "obsidian-note/learning/vue3_source/特别放送导读 -研究 Vue 官方生态的实现原理【海 量资源：ubkz.com】.pdf",
