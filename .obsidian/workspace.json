@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-note/md/js++/ECMA专题/arguments.md",
+                "file": "obsidian-note/md/js++/DOM/获取节点.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-note/md/js++/ECMA专题/arguments.md",
+                "file": "obsidian-note/md/js++/DOM/获取节点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-note/md/js++/ECMA专题/arguments.md",
+                "file": "obsidian-note/md/js++/DOM/获取节点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-note/md/js++/ECMA专题/arguments.md"
+                "file": "obsidian-note/md/js++/DOM/获取节点.md"
               }
             }
           }
@@ -148,11 +148,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8e53b68759b795ef",
+  "active": "53dcf6a63a4571dc",
   "lastOpenFiles": [
+    "obsidian-note/md/js++/ECMA专题/arguments.md",
+    "obsidian-note/md/js++/DOM/获取节点.md",
     "obsidian-note/md/js++/DOM",
     "obsidian-note/md/js++/js/8.三目运算符、深拷贝浅拷贝.md",
-    "obsidian-note/md/js++/ECMA专题/arguments.md",
     "obsidian-note/md/js++/js/1.类型转换.md",
     "obsidian-note/md/js++/ECMA专题",
     "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
@@ -185,7 +186,6 @@
     "obsidian-note/learning/vue3_source/结束语 - 终点也是起点【海 量资源：ubkz.com】.pdf",
     "obsidian-note/learning/vue3_source/特别放送导读 -研究 Vue 官方生态的实现原理【海 量资源：ubkz.com】.pdf",
     "obsidian-note/learning/vue3_source/模块四导读 - 实用特性：探索更多实用特性背后的原理【海 量资源：ubkz.com】.pdf",
-    "obsidian-note/learning/vue3_source/模块五导读 - 内置组件：学习 Vue 内置组件的实现原理【海 量资源：ubkz.com】.pdf",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/9.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/7.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/6.jpg",
