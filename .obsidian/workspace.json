@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-note/md/js++/DOM/获取节点.md",
+                "file": "obsidian-note/md/js++/DOM/元素节点操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 246.5
   },
   "right": {
     "id": "1f8256c970ce9df9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-note/md/js++/DOM/获取节点.md",
+                "file": "obsidian-note/md/js++/DOM/元素节点操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-note/md/js++/DOM/获取节点.md",
+                "file": "obsidian-note/md/js++/DOM/元素节点操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-note/md/js++/DOM/获取节点.md"
+                "file": "obsidian-note/md/js++/DOM/元素节点操作.md"
               }
             }
           }
@@ -150,8 +150,12 @@
   },
   "active": "53dcf6a63a4571dc",
   "lastOpenFiles": [
-    "obsidian-note/md/js++/ECMA专题/arguments.md",
     "obsidian-note/md/js++/DOM/获取节点.md",
+    "obsidian-note/md/js++/DOM/元素节点操作.md",
+    "obsidian-note/learning/Vue.js 组件精讲/3组件的通信 2：派发与广播——自行实现 dispatch 和 broadcast 方法.md",
+    "obsidian-note/learning/vue3_source/04 - Setup：组件渲染前的初始化过程是怎样的？【海 量资源：ubkz.com】.pdf",
+    "obsidian-note/learning/lg_webpack/06-团队工具：如何利用云开发提升团队开发效率？【海 量资源：ubkz.com】.pdf",
+    "obsidian-note/md/js++/ECMA专题/arguments.md",
     "obsidian-note/md/js++/DOM",
     "obsidian-note/md/js++/js/8.三目运算符、深拷贝浅拷贝.md",
     "obsidian-note/md/js++/js/1.类型转换.md",
@@ -180,12 +184,8 @@
     "obsidian-note/learning/webpack/4 如何借助预处理器、PostCSS 等构建现代 CSS 工程环境？[微信：itcodeba ].md",
     "obsidian-note/learning/webpack/30 HMR：如何动态替换页面代码？[微信：itcodeba ].md",
     "obsidian-note/learning/webpack/3 如何借助 Babel+TS+ESLint 构建现代 JS 工程环境？[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/29 Sourcemap：源码映射原理与应用技巧[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/28 Tree-shaking：如何删除无用模块导出？[微信：itcodeba ].md",
     "obsidian-note/learning/webpack",
     "obsidian-note/learning/vue3_source/结束语 - 终点也是起点【海 量资源：ubkz.com】.pdf",
-    "obsidian-note/learning/vue3_source/特别放送导读 -研究 Vue 官方生态的实现原理【海 量资源：ubkz.com】.pdf",
-    "obsidian-note/learning/vue3_source/模块四导读 - 实用特性：探索更多实用特性背后的原理【海 量资源：ubkz.com】.pdf",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/9.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/7.jpg",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/6.jpg",
