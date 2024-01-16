@@ -11,12 +11,8 @@
             "id": "53dcf6a63a4571dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-note/md/js++/DOM/元素节点操作.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-note/md/js++/DOM/元素节点操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-note/md/js++/DOM/元素节点操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-note/md/js++/DOM/元素节点操作.md"
+                "file": "obsidian-note/Drawing 2024-01-17 07.27.19.excalidraw.md"
               }
             }
           }
@@ -148,10 +142,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "53dcf6a63a4571dc",
+  "active": "8e53b68759b795ef",
   "lastOpenFiles": [
-    "obsidian-note/md/js++/DOM/获取节点.md",
-    "obsidian-note/md/js++/DOM/元素节点操作.md",
+    "obsidian-note/md/js++/DOM/4.DOM操作内联样式.md",
+    "obsidian-note/Drawing 2024-01-17 07.27.19.excalidraw.md",
+    "obsidian-note/md/js++/DOM/3.窗口方法.md",
+    "obsidian-note/md/js++/DOM/2.元素节点操作.md",
+    "obsidian-note/md/js++/DOM/1.获取节点.md",
     "obsidian-note/learning/Vue.js 组件精讲/3组件的通信 2：派发与广播——自行实现 dispatch 和 broadcast 方法.md",
     "obsidian-note/learning/vue3_source/04 - Setup：组件渲染前的初始化过程是怎样的？【海 量资源：ubkz.com】.pdf",
     "obsidian-note/learning/lg_webpack/06-团队工具：如何利用云开发提升团队开发效率？【海 量资源：ubkz.com】.pdf",
@@ -181,9 +178,6 @@
     "obsidian-note/learning/webpack/7 使用 Webpack 构建 NPM Library 的正确方式[微信：itcodeba ].md",
     "obsidian-note/learning/webpack/6 如何搭建 React 全栈开发环境？[微信：itcodeba ].md",
     "obsidian-note/learning/webpack/5 如何搭建 Vue 全栈开发环境？[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/4 如何借助预处理器、PostCSS 等构建现代 CSS 工程环境？[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/30 HMR：如何动态替换页面代码？[微信：itcodeba ].md",
-    "obsidian-note/learning/webpack/3 如何借助 Babel+TS+ESLint 构建现代 JS 工程环境？[微信：itcodeba ].md",
     "obsidian-note/learning/webpack",
     "obsidian-note/learning/vue3_source/结束语 - 终点也是起点【海 量资源：ubkz.com】.pdf",
     "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/9.jpg",
